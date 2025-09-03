@@ -1,12 +1,12 @@
-# 👋 Hello, I'm Gustavo
+# 👋 Hola, Soy Gustavo! 
 
-🎓 I'm a Computer Engineering student  
-💻 I specialize in backend development and data technologies  
-🌱 Currently learning more about cloud and scalable systems
+🎓 Soy estudiante de Ingeniería en Informática 
+💻 Me especializo en desarrollo backend y tecnologías de datos
+🌱 Estoy aprendiendo más sobre el mundo del Data Engineering y procesamiento de datos
 
 ---
 
-## 🛠️ Languages, Frameworks & Tools:
+## 🛠️ Lenguajes, Frameworks & Herramientas:
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
