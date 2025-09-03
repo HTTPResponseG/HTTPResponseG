@@ -2,6 +2,7 @@
 
 🎓 Soy estudiante de Ingeniería en Informática 
 💻 Me especializo en desarrollo backend y tecnologías de datos
+
 🌱 Estoy aprendiendo más sobre el mundo del Data Engineering y procesamiento de datos
 
 ---
