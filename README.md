@@ -4,7 +4,7 @@
 
 💻 Me especializo en Desarrollo Backend y gestión de datos
 
-🌱 Enfocado en desarrollo backend y bases de datos, con una forma de trabajo analítica, colaborativa y orientada a la mejora continua
+🌱 Desarrollador en formación, analítico y autodidacta, con interés en resolver problemas reales y aprender constantemente en entornos colaborativos
 
 
 ---
