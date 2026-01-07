@@ -25,7 +25,7 @@
 ## 🤝 Proyectos Colaborativos y Contribuciones
 
 🔹 **Sistema de Gestión Taller Mecánico (Desarrollo FullStack Django)**  
-Repositorio: [🔗 Ver proyecto](https://github.com/RoaStack/Serviexpress/tree/staging)  
+Repositorio: [🔗 Ver proyecto](https://github.com/RoaStack/Serviexpress)  
 - Desarrollo de endpoints con Django  
 - Modelado de base de datos en PostgreSQL  
 - Implementación de lógica de negocio, consultas ORM y validaciones  
