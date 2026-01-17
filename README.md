@@ -32,7 +32,6 @@ Repositorio: [🔗 Ver proyecto](https://github.com/RoaStack/Serviexpress)
 - Desarrollo de endpoints con Django  
 - Modelado de base de datos en PostgreSQL  
 - Implementación de lógica de negocio, consultas ORM y validaciones  
-- Trabajo colaborativo usando Git (branches, PRs y code reviews)
 
 🔹 **Aplicación Web - Gestión de Reservas Barbería (Backend + DB)**  
 Repositorio: [🔗 Ver proyecto](https://github.com/RoaStack/Software-Barberia)  
