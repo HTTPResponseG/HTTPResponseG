@@ -2,7 +2,7 @@
 
 🎓 Soy estudiante de Ingeniería en Informática 
 
-💻 Me especializo en Desarrollo Backend y gestión de datos
+💻 Me especializo en desarrollo backend y gestión de datos
 
 🌱 Desarrollador en formación, analítico y autodidacta, con interés en resolver problemas reales y aprender constantemente en entornos colaborativos
 
